@@ -4,6 +4,12 @@
 
 Rooted Me is a voice-first whole-woman AI companion for the woman who carries everything: home, work, money, health, and the people she loves. She talks, and the app carries what it can, shows its work, and gives her a peaceful place to land. Built solo by Dr. Tamiera Harris with her AI Dream Team for the Meta Global AI Developer Hackathon, Indie track, Build for Your World, October 27 to November 4, 2026.
 
+## Demo Video
+
+**[Watch the 3-minute demo (YouTube, permanent link)](https://www.youtube.com/watch?v=24cxsuOPJG8)**
+
+The demo shows the full app walkthrough: Release, My Day, Grow, Reflect, and Catch Up tabs, with voice and type input, breathing, and the team feed.
+
 ## What it is
 
 Five tabs, plain words, no learning curve:
